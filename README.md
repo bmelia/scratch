@@ -1,0 +1,2 @@
+# scratch
+Generic scratch box
